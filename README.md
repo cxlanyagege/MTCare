@@ -1,4 +1,4 @@
-# masterWang-MTCare
+# MTCare
 Hack.init 2018 Master_Wang_Next_Door workshop project (Only head webpage part)
 
 ## Notice
