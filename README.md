@@ -2,10 +2,10 @@
 Hack.init 2018 Master_Wang_Next_Door workshop project (Only head webpage part)
 
 ## Directory
-- [au](https://github.com/EngLearnsh/MTCare/tree/master/au) Music
-- [doc](https://github.com/EngLearnsh/MTCare/tree/master/doc) Documentations about "Decision Tree" and FAQs
-- [pg](https://github.com/EngLearnsh/MTCare/tree/master/pg) Backup web pages
-- [pic](https://github.com/EngLearnsh/MTCare/tree/master/pic) Pictures
+- [au](https://github.com/EngLearnsh/MTCare/tree/master/au) includes music
+- [doc](https://github.com/EngLearnsh/MTCare/tree/master/doc) includes documentations about "Decision Tree" and FAQs
+- [pg](https://github.com/EngLearnsh/MTCare/tree/master/pg) includes backup web pages
+- [pic](https://github.com/EngLearnsh/MTCare/tree/master/pic) includes pictures
 
 ## Notice
 - It is only a DEMO
