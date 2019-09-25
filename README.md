@@ -17,4 +17,4 @@ Design a interactive UI by Java. Use Python to record, analyze and indicate usag
 - I may add some keys once I get thoughts
 
 ## Credits
-- [Will Lu](https://github.com/LXG-Shadow), [William Wang](https://github.com/WilliamWangyueming), Jiang Yuan
+- [Will Lu](https://github.com/LXG-Shadow), Master Wang [William Wang](https://github.com/WilliamWangyueming), Jiang Yuan
